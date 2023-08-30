@@ -19,7 +19,6 @@ function Card() {
           label='Adventure'
           path='/services'
           > 
-
           </CardItem>
       <br/>
           <CardItem
@@ -28,7 +27,6 @@ function Card() {
           label='Adventure'
           path='/services'
           > 
-
           </CardItem>
         </ul> 
       </div>

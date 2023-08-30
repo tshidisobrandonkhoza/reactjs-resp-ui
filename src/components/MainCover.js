@@ -1,5 +1,4 @@
-import React from 'react'
-import Button from './Button'
+import Button from './Button';
 import '../assets/css/App.css';
 import '../assets/css/MainCover.css';
 

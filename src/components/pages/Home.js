@@ -1,6 +1,6 @@
-import React from 'react';
 import MainCover from '../MainCover';
 import Card from '../Card';
+
 function Home() {
     return (
         <>
