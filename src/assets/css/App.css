@@ -1,0 +1,69 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans', sans-serif;
+
+}
+
+.home,
+.services,
+.about,
+.products,
+.contact,
+.sign-up {
+    display: flex;
+    height: 90vh;
+
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+}
+
+.services {
+
+    font-size: 100px;
+    color: #fff;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('/public/images/pc.jpg');
+    background-size:cover;
+}
+.about{
+
+    font-size: 100px;
+    color: #fff;
+    background-repeat: no-repeat;
+    background-position: center;
+      background-image: url('/public/images/cube.jpg');
+      background-size:cover;
+}
+
+.products {
+
+    font-size: 100px;
+    color: #fff;
+    background-repeat: no-repeat;
+    background-position: center;
+      background-image: url('/public/images/cube.jpg');
+      background-size:cover;
+}
+
+.contact {
+
+    font-size: 100px;
+    color: #fff;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('/public/images/cube.jpg');
+    background-size:cover;
+}
+
+.sign-up {
+    font-size: 100px;
+    color: #fff;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('/public/images/cube.jpg');
+    background-size:cover;
+}
